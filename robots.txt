@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thtoam.github.io/MKR/sitemap.MKR.gz
